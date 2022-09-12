@@ -1,0 +1,109 @@
+#title {
+    background-color: rgb(243, 100, 100);
+}
+
+.text2 {
+
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
+    color: blue;
+
+}
+
+#line1 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 5rem;
+    line-height: 1.5;
+
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.tex {
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+
+}
+
+.navbar {
+    margin-bottom: 5rem;
+}
+
+.nav-item {
+    padding: 0px 20px;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0%;
+}
+
+.dog-image {
+    width: 50%;
+    transform: rotate(20deg);
+    translate: 250px;
+}
+
+/* Features */
+#features {
+    padding: 5% 15%;
+}
+
+.box {
+    text-align: center;
+}
+
+h3 {
+    font-size: 35px;
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+
+p {
+    color: grey;
+}
+
+/* Icon Color */
+.icon1 {
+    color: red;
+    padding-bottom: 1rem;
+
+}
+
+.icon1:hover {
+    color: rgb(252, 101, 0);
+}
+
+/* Testimonial Section */
+
+h2 {
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 4rem;
+
+}
+
+#testimonials {
+
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(229, 160, 160);
+}
+
+.tes-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 10px;
+}
+
+#press {
+    background-color: rgb(229, 160, 160);
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-img {
+    width: 7%;
+    margin: 20px;
+}
